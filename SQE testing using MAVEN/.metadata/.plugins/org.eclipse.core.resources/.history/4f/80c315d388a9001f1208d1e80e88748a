@@ -1,0 +1,9 @@
+package com.api.automation.tests;
+
+public class ApiEndpoints {
+
+    // Example of API endpoints
+    public static final String GET_USERS = "https://jsonplaceholder.typicode.com/users";
+    public static final String POST_USER = "https://jsonplaceholder.typicode.com/users";
+    public static final String PATCH_USER = "https://jsonplaceholder.typicode.com/users/1";
+}
